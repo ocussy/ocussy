@@ -7,7 +7,7 @@
   <br>
 </div>
 
-👩‍🎓 Currently learning :<b> AI and algorithms </b>
+👩‍🎓 Currently learning :<b> Python for data sciences </b>
 
 📫 How to reach me: <b>oceane.cussy@gmail.com</b>
 
