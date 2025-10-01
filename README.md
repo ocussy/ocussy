@@ -7,7 +7,7 @@
   <br>
 </div>
 
-👩‍🎓 Currently learning :<b> Python for data sciences </b>
+👩‍🎓 Currently learning :<b> Data Science, Statistics, Visualiation, Logistic Regression </b>
 
 📫 How to reach me: <b>oceane.cussy@gmail.com</b>
 
