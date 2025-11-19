@@ -7,7 +7,7 @@
   <br>
 </div>
 
-👩‍🎓 Currently learning :<b> Data Science, Statistics, Visualiation, Logistic Regression </b>
+👩‍🎓 Currently learning :<b> Neural Network, Multilayer Perceptron </b>
 
 📫 How to reach me: <b>oceane.cussy@gmail.com</b>
 
