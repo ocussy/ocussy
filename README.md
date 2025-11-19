@@ -44,11 +44,11 @@
 <br>
 <div align = "center">
   <p style="font-size:18px; margin-top:20px;"><b>🚀 Projects I've Worked On</b></p>
+    <a href="https://github.com/ocussy/multilayer_perceptron">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ocussy&repo=multilayer_perceptron&theme=dracula" alt=multilayer_perceptron" />
+  </a>
    <a href="https://github.com/ocussy/dslr">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ocussy&repo=dslr&theme=dracula" alt="dslr" />
-  </a>
-  <a href="https://github.com/ocussy/ft_linear_regression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ocussy&repo=ft_linear_regression&theme=dracula" alt=ft_linear_regression" />
   </a>
   <a href="https://github.com/ocussy/transcendence">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ocussy&repo=transcendence&theme=dracula" alt="Transcendence" />
